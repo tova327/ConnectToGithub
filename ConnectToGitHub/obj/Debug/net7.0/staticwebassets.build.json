@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IUAUWMEnKzJm3EFErs+EZGoBZx34bMW51cR/zDhBHcU=",
+  "Source": "ConnectToGitHub",
+  "BasePath": "_content/ConnectToGitHub",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

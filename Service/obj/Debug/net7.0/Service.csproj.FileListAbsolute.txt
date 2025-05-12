@@ -1,0 +1,12 @@
+D:\Users\User\Desktop\טובי\2025\ConnectToGitHub\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\טובי\2025\ConnectToGitHub\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\טובי\2025\ConnectToGitHub\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\טובי\2025\ConnectToGitHub\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+D:\Users\User\Desktop\טובי\2025\ConnectToGitHub\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\טובי\2025\ConnectToGitHub\Service\bin\Debug\net7.0\Service.deps.json
+D:\Users\User\Desktop\טובי\2025\ConnectToGitHub\Service\bin\Debug\net7.0\Service.dll
+D:\Users\User\Desktop\טובי\2025\ConnectToGitHub\Service\bin\Debug\net7.0\Service.pdb
+D:\Users\User\Desktop\טובי\2025\ConnectToGitHub\Service\obj\Debug\net7.0\Service.dll
+D:\Users\User\Desktop\טובי\2025\ConnectToGitHub\Service\obj\Debug\net7.0\refint\Service.dll
+D:\Users\User\Desktop\טובי\2025\ConnectToGitHub\Service\obj\Debug\net7.0\Service.pdb
+D:\Users\User\Desktop\טובי\2025\ConnectToGitHub\Service\obj\Debug\net7.0\ref\Service.dll
